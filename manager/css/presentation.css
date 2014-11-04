@@ -1,0 +1,218 @@
+body { font-size: 62.5%; }
+label, input { display:block; }
+input.text { margin-bottom:12px; width:95%; padding: .4em; }
+		        fieldset { padding:0; border:0; margin-top:25px; }
+		        h1 { font-size: 1.2em; margin: .6em 0; }
+		        div#My-div { width:800px; margin:0 auto; }
+		        div#users-contain { width: 350px; margin: 20px 0; }
+		        div#users-contain table{ margin: 1em 0; border-collapse: collapse; width: 100%; }
+		        div#users-contain table td, div#users-contain table th { border: 1px solid #eee; padding: .6em 10px; text-align: left; }
+		        .ui-dialog .ui-state-error { padding: .3em; }
+		        .validateTips { border: 1px solid transparent; padding: 0.3em; }
+
+		        div#content { width:800px; margin:0 auto;}
+div#manage_products {
+ width:800px;
+ margin:0 auto;
+} 
+
+a#manage_products-P {
+ position: relative;
+  margin: 50px auto;
+  padding: 20px 20px 20px;
+  width: 310px;
+}
+a#manage_products-P {
+ position: relative;
+  margin: 50px auto;
+  padding: 20px 20px 20px;
+  width: 310px;
+}
+
+a#home {
+	margin: 0 auto;
+	position: relative;
+	font-size: 2.6em;
+	margin-right: 25px;
+    margin-top: 1px;
+    width: 84px;
+    height: 45px;   
+    background: transparent;
+    border: none;
+    color: black;   
+    font-weight:700;
+    text-align: center;
+}
+a#logout {
+	margin: 0 auto;
+	position: relative;
+	font-size: 2.6em;
+	margin-right: 80px;
+    margin-top: 1px;
+    width: 84px;
+    height: 45px;   
+    background: transparent;
+    border: none;
+    color: black;   
+    font-weight:700;
+    text-align: center;
+}
+a#login{
+	margin: 0 auto;
+	position: relative;
+	font-size: 2.5em;
+	margin-right: 80px;
+    margin-top: 1px;
+    width: 84px;
+    height: 45px;   
+    background: transparent;
+    border: none;
+    color: black;   
+    font-weight:700;
+    text-align: center;
+}
+.image{
+	float:left;
+	margin-top:10px;
+	padding:12px;
+	display:block;
+    height:40px;
+    width:100px; 
+}
+.text{
+	float:left;
+	margin-top:0px;
+	padding:5px;
+	margin-bottom:10px;
+	margin-left: 0px;
+	width:100%;
+	height: 20%;
+	font-weight:bold;
+	font-size:10px; 
+	display:block; 
+    width:80px;
+}
+
+
+
+.control_panel_ui {
+	margin:0 auto; width: 50%;
+	width:80%;
+}
+
+.control_panel_ui_options {
+	margin:0 auto; width: 50%;
+	height:150px;
+  	width:850px;
+	float:center;
+}
+
+div#centralOrdersTable {
+	margin-top:100px;
+}
+
+div#manage_products {
+	margin:0 auto; width:50%;
+	width:700px;
+	height: 150px;
+}
+
+.manage_products_options {
+	margin:0 auto; width: 50%;
+	height:150px;
+  	width:500px;
+	float:center;
+}
+
+div#OrdersTable {
+	margin-top:100px;
+}
+
+div#ProductTable {
+	margin-top:100px;
+}
+
+div#FeaturesTable {
+	margin-top:100px;
+}
+
+div#CategoryTable {
+	margin-top:100px;
+}
+
+.statistics_manage_products {
+	margin:0 auto; width:50%;
+	width:700px;
+	height: 150px;
+}
+
+.statistics_manage_products_options {
+	margin:0 auto; width: 50%;
+	height:170px;
+  	width:500px;
+	float:center;
+}
+
+div#StatisticsPageIncomes {
+	margin-top:50px;
+}
+
+div#StatisticsPageIncomes p {
+	font-size: 14px;
+}
+
+div#StatisticsPageProducts {
+	margin-top:50px;
+}
+
+div#StatisticsPageProducts p {
+	font-size: 14px;
+}
+
+.StatisticsPageProductsRadio div input {
+
+}
+
+.StatisticsPageIncomesRadio {
+
+}
+
+div#home {
+	font-size: 14px;
+	margin-left: 0px;
+
+}
+
+a#logout {
+	margin-left: 0px;
+	font-size: 14px;
+}
+
+.manager_toolbox {
+	margin-top: 5px;
+	margin-right: 0px;
+}
+
+a#session_log {
+	margin-top: 0px;
+	margin-right: 0px;
+	float:right;
+	font-size: 14px;
+}
+
+
+.upload_photo {
+	margin-top: 30px;
+	margin-right: 0px;
+	float:center;
+	font-size: 14px;
+}
+
+.selectFeature {
+
+
+}
+
+.selectProduct {
+	
+}
